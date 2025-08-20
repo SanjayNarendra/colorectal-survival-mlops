@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanja/Desktop/Data_science/portfolio-projects/03_MLOps/colorectal-survival-mlops/mlruns/0/a502c11d5c544bb08a95323e832542a0/artifacts
+end_time: 1755672694107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a502c11d5c544bb08a95323e832542a0
+run_name: powerful-kit-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755672682364
+status: 3
+tags: []
+user_id: sanju
